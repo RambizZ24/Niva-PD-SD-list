@@ -5,3 +5,5 @@ Floyd_Bailey
 Cha_Ellsworth
 Kieran_Walker
 Louisa_Hammond //sora
+Judge_Trabzon
+Jhudge_Trabzon //eğer üstteki olmazsa kesinbu knk
